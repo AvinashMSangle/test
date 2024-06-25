@@ -1,0 +1,10 @@
+@font-face {
+  font-family: puppy;
+  src: url(MercyChristole.ttf);
+}
+h1,
+h2,
+h3 {
+  background-color: #b3ff79;
+  font-family: puppy, sans-serif;
+}
